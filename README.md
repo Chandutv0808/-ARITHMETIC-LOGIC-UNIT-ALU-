@@ -5,6 +5,7 @@
 **DOMAIN**/ VLSI
 **BATCH DURATION**/  DECEMBER 25th,2024 TO JANUARY 25th,2025.
  **MENTOR NAME**/ NEELA SANTHOSH KUMAR 
+ https://private-user-images.githubusercontent.com/192952030/399147152-9096af99-deea-4996-ae39-b3f978135282.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0NjE4NTAsIm5iZiI6MTczNTQ2MTU1MCwicGF0aCI6Ii8xOTI5NTIwMzAvMzk5MTQ3MTUyLTkwOTZhZjk5LWRlZWEtNDk5Ni1hZTM5LWIzZjk3ODEzNTI4Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyOVQwODM5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZmZmNmE3OTdlMTI3YmZlZjI1ZDkxMWQwMWQyYzEwZjBiMTEwZWQ1MDBiOWJkZmEyZDZiYjljNGM5N2E4NzM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kJhXWumKFA-8uFWJVeAlChE2u0KVq0hKOAtH143Ctho
  **DESCRIPTION OF TASK PERFORMED**/ Objective:
 To design a Basic Arithmetic Logic Unit (ALU) capable of performing fundamental arithmetic and logical operations, including addition, subtraction, AND, OR, and NOT. The design is implemented in VSCODE by the extension of verilog and installing iverilog and tested for correctness using a set of predefined test cases.
 
