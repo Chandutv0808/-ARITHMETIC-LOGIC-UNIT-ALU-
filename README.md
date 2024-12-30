@@ -6,7 +6,8 @@ https://github.com/Chandutv0808/-ARITHMETIC-LOGIC-UNIT-ALU-/issues/1#issue-27622
 **DOMAIN**/ VLSI
 **BATCH DURATION**/  DECEMBER 25th,2024 TO JANUARY 25th,2025.
  **MENTOR NAME**/ NEELA SANTHOSH KUMAR 
-**DESCRIPTION OF TASK PERFORMED**/ Objective:
+**DESCRIPTION OF TASK PERFORMED**/ 
+Objective:
 To design a Basic Arithmetic Logic Unit (ALU) capable of performing fundamental arithmetic and logical operations, including addition, subtraction, AND, OR, and NOT. The design is implemented in VSCODE by the extension of verilog and installing iverilog and tested for correctness using a set of predefined test cases.
 
 "STEPS PERFORMED" include
